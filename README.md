@@ -2,6 +2,8 @@
 
 ## Run the BKG Ntrip Client (BNC)
 
+This image allows running the [BKG Ntrip Client](https://igs.bkg.bund.de/ntrip/bnc).
+
 ### On GNU/Linux host machines
 
   Install the X11 server utilities in the host machine:
